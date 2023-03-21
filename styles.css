@@ -23,6 +23,6 @@ h1{
 	background:white;
 	margin:10px;
 }
-.auth-name{
-	align-self:end;
+.x{
+	text-align:right;
 }
